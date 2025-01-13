@@ -1,0 +1,34 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "RogalaPiotr",
+      "MichalJankowskii"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure 2025 - Wrocław Workshop on-site",
+    "Country": "Poland",
+    "Url": "https://www.eventbrite.com/e/global-azure-2024-wrocaw-workshop-on-site-tickets-843084216587",
+    "SessionizeApiId": "ig3k50yq",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "Logo": {
+      "Description": "GlobalAzurePolandWroclaw-500x500",
+      "File": "GlobalAzurePolandWroclaw-500x500.png"
+    },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
+    "Locations": [
+      {
+        "Name": "GlobalLogic",
+        "StartDate": "2025-05-08",
+        "EndDate": "2025-05-08",
+        "Address": "https://maps.app.goo.gl/nKy9qp3J6Xe3EckH7",
+        "Latitude": 51.11259967697528,
+        "Longitude": 16.984595593794285
+      }
+    ]
+  }
+}
